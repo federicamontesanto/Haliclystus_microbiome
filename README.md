@@ -35,7 +35,7 @@ Identification of bacterial taxa associated with anatomical compartments and sam
 
 Exploratory analysis of bacterial co-abundance patterns among prevalent bacterial genera.
 
-### 07 — FM48a genomic analysis
+### 07 — FM48a ANI and 08 FM48a phylogeny
 
 Genome-based taxonomic identification using average nucleotide identity (ANI), phylogenomic inference, and visualization of the phylogenetic relationships between FM48a and reference *Oceanisphaera* genomes.
 
