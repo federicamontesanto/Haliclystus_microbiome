@@ -1,0 +1,66 @@
+Sample_ID,16S_ID,Species,Site,Compartment,Original_site_label,Original_compartment_label,DNA_concentration_ng_uL_original,Extraction_kit_original,DNA_extraction_notes_original,FASTQ_R1_expected,FASTQ_R2_expected
+CBB1,AB-139,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,0.534,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-139_R1_001.fastq.gz,AB-139_R2_001.fastq.gz
+CBB10,AB-140,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,1.64,Buffer AE blood and tissue kit qiagen,,AB-140_R1_001.fastq.gz,AB-140_R2_001.fastq.gz
+CBB11,AB-141,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,4.86,Buffer AE blood and tissue kit qiagen,,AB-141_R1_001.fastq.gz,AB-141_R2_001.fastq.gz
+CBB12,AB-142,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,4.08,Buffer AE blood and tissue kit qiagen,,AB-142_R1_001.fastq.gz,AB-142_R2_001.fastq.gz
+CBB13,AB-143,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,24.8,Buffer AE blood and tissue kit qiagen,,AB-143_R1_001.fastq.gz,AB-143_R2_001.fastq.gz
+CBB14,AB-144,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,10.9,Buffer AE blood and tissue kit qiagen,,AB-144_R1_001.fastq.gz,AB-144_R2_001.fastq.gz
+CBB15,AB-145,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,0.496,Buffer AE blood and tissue kit qiagen,,AB-145_R1_001.fastq.gz,AB-145_R2_001.fastq.gz
+CBB2,AB-146,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,2.96,Buffer AE blood and tissue kit qiagen,,AB-146_R1_001.fastq.gz,AB-146_R2_001.fastq.gz
+CBB3,AB-147,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,60.8,Buffer AE blood and tissue kit qiagen,,AB-147_R1_001.fastq.gz,AB-147_R2_001.fastq.gz
+CBB4,AB-148,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,18.3,Buffer AE blood and tissue kit qiagen,,AB-148_R1_001.fastq.gz,AB-148_R2_001.fastq.gz
+CBB5,AB-149,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,51.4,Buffer AE blood and tissue kit qiagen,,AB-149_R1_001.fastq.gz,AB-149_R2_001.fastq.gz
+CBB6,AB-150,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,0.356,Buffer AE blood and tissue kit qiagen,,AB-150_R1_001.fastq.gz,AB-150_R2_001.fastq.gz
+CBB7,AB-151,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,6.14,Buffer AE blood and tissue kit qiagen,,AB-151_R1_001.fastq.gz,AB-151_R2_001.fastq.gz
+CBB8,AB-152,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,5.28,Buffer AE blood and tissue kit qiagen,,AB-152_R1_001.fastq.gz,AB-152_R2_001.fastq.gz
+CBB9,AB-153,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,gut_body,4.96,Buffer AE blood and tissue kit qiagen,,AB-153_R1_001.fastq.gz,AB-153_R2_001.fastq.gz
+CBS1,AB-154,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,0.31,Buffer AE blood and tissue kit qiagen,,AB-154_R1_001.fastq.gz,AB-154_R2_001.fastq.gz
+CBS10,AB-155,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,2.26,Buffer AE blood and tissue kit qiagen,,AB-155_R1_001.fastq.gz,AB-155_R2_001.fastq.gz
+CBS11,AB-156,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,2.32,Buffer AE blood and tissue kit qiagen,,AB-156_R1_001.fastq.gz,AB-156_R2_001.fastq.gz
+CBS12,AB-157,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,16.7,Buffer AE blood and tissue kit qiagen,,AB-157_R1_001.fastq.gz,AB-157_R2_001.fastq.gz
+CBS13,AB-158,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,3.8,Buffer AE blood and tissue kit qiagen,,AB-158_R1_001.fastq.gz,AB-158_R2_001.fastq.gz
+CBS14,AB-159,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,0.94,Buffer AE blood and tissue kit qiagen,,AB-159_R1_001.fastq.gz,AB-159_R2_001.fastq.gz
+CBS15,AB-160,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,3.88,Buffer AE blood and tissue kit qiagen,,AB-160_R1_001.fastq.gz,AB-160_R2_001.fastq.gz
+CBS2,AB-161,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,0.33,Buffer AE blood and tissue kit qiagen,,AB-161_R1_001.fastq.gz,AB-161_R2_001.fastq.gz
+CBS3,AB-162,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,99.6,Buffer AE blood and tissue kit qiagen,,AB-162_R1_001.fastq.gz,AB-162_R2_001.fastq.gz
+CBS4,AB-163,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,16.7,Buffer AE blood and tissue kit qiagen,,AB-163_R1_001.fastq.gz,AB-163_R2_001.fastq.gz
+CBS5,AB-164,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,14.4,Buffer AE blood and tissue kit qiagen,,AB-164_R1_001.fastq.gz,AB-164_R2_001.fastq.gz
+CBS6,AB-165,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,3.14,Buffer AE blood and tissue kit qiagen,,AB-165_R1_001.fastq.gz,AB-165_R2_001.fastq.gz
+CBS7,AB-166,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,4.7,Buffer AE blood and tissue kit qiagen,,AB-166_R1_001.fastq.gz,AB-166_R2_001.fastq.gz
+CBS8,AB-167,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,0.33,Buffer AE blood and tissue kit qiagen,,AB-167_R1_001.fastq.gz,AB-167_R2_001.fastq.gz
+CBS9,AB-168,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,stalk,2.7,Buffer AE blood and tissue kit qiagen,,AB-168_R1_001.fastq.gz,AB-168_R2_001.fastq.gz
+CBT1,AB-169,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.42,Buffer AE blood and tissue kit qiagen,,AB-169_R1_001.fastq.gz,AB-169_R2_001.fastq.gz
+CBT10,AB-170,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,10.3,Buffer AE blood and tissue kit qiagen,,AB-170_R1_001.fastq.gz,AB-170_R2_001.fastq.gz
+CBT11,AB-171,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,14.6,Buffer AE blood and tissue kit qiagen,,AB-171_R1_001.fastq.gz,AB-171_R2_001.fastq.gz
+CBT12,AB-172,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.18,Buffer AE blood and tissue kit qiagen,,AB-172_R1_001.fastq.gz,AB-172_R2_001.fastq.gz
+CBT13,AB-173,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,12.5,Buffer AE blood and tissue kit qiagen,,AB-173_R1_001.fastq.gz,AB-173_R2_001.fastq.gz
+CBT14,AB-174,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,14.8,Buffer AE blood and tissue kit qiagen,,AB-174_R1_001.fastq.gz,AB-174_R2_001.fastq.gz
+CBT15,AB-175,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,20.8,Buffer AE blood and tissue kit qiagen,,AB-175_R1_001.fastq.gz,AB-175_R2_001.fastq.gz
+CBT2,AB-176,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.34,Buffer AE blood and tissue kit qiagen,,AB-176_R1_001.fastq.gz,AB-176_R2_001.fastq.gz
+CBT3,AB-177,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,89.6,Buffer AE blood and tissue kit qiagen,,AB-177_R1_001.fastq.gz,AB-177_R2_001.fastq.gz
+CBT4,AB-178,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,29.8,Buffer AE blood and tissue kit qiagen,,AB-178_R1_001.fastq.gz,AB-178_R2_001.fastq.gz
+CBT5,AB-179,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,13.1,Buffer AE blood and tissue kit qiagen,,AB-179_R1_001.fastq.gz,AB-179_R2_001.fastq.gz
+CBT6,AB-180,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,4.18,Buffer AE blood and tissue kit qiagen,,AB-180_R1_001.fastq.gz,AB-180_R2_001.fastq.gz
+CBT7,AB-181,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.58,Buffer AE blood and tissue kit qiagen,,AB-181_R1_001.fastq.gz,AB-181_R2_001.fastq.gz
+CBT8,AB-182,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.86,Buffer AE blood and tissue kit qiagen,,AB-182_R1_001.fastq.gz,AB-182_R2_001.fastq.gz
+CBT9,AB-183,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,tentacle,5.98,Buffer AE blood and tissue kit qiagen,,AB-183_R1_001.fastq.gz,AB-183_R2_001.fastq.gz
+CR1S,AB-189,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,stalk,91.2,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-189_R1_001.fastq.gz,AB-189_R2_001.fastq.gz
+CR1T,AB-190,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,tentacle,too high (dilute sample) + 34.6 (CR1Tb in 50 ul),Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-190_R1_001.fastq.gz,AB-190_R2_001.fastq.gz
+CR2,AB-191,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,46,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-191_R1_001.fastq.gz,AB-191_R2_001.fastq.gz
+CR2B,AB-192,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,0.98,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-192_R1_001.fastq.gz,AB-192_R2_001.fastq.gz
+CR2S,AB-193,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,stalk,1.15,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-193_R1_001.fastq.gz,AB-193_R2_001.fastq.gz
+CR3,AB-194,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,52.2,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-194_R1_001.fastq.gz,AB-194_R2_001.fastq.gz
+CR3B,AB-195,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,0.734,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-195_R1_001.fastq.gz,AB-195_R2_001.fastq.gz
+CR3S,AB-196,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,stalk,2.08,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-196_R1_001.fastq.gz,AB-196_R2_001.fastq.gz
+CR3T,AB-197,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,tentacle,6.4,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-197_R1_001.fastq.gz,AB-197_R2_001.fastq.gz
+CR4,AB-198,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,59.8,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-198_R1_001.fastq.gz,AB-198_R2_001.fastq.gz
+CR4B,AB-199,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,2.82,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-199_R1_001.fastq.gz,AB-199_R2_001.fastq.gz
+CR4S,AB-200,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,stalk,0.803,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-200_R1_001.fastq.gz,AB-200_R2_001.fastq.gz
+CR4T,AB-201,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,tentacle,3.48,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-201_R1_001.fastq.gz,AB-201_R2_001.fastq.gz
+CR5,AB-202,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,70.6,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-202_R1_001.fastq.gz,AB-202_R2_001.fastq.gz
+CR5B,AB-203,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,0.578,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-203_R1_001.fastq.gz,AB-203_R2_001.fastq.gz
+CR5S,AB-204,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,stalk,1.55,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-204_R1_001.fastq.gz,AB-204_R2_001.fastq.gz
+CR5T,AB-205,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,tentacle,4.52,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-205_R1_001.fastq.gz,AB-205_R2_001.fastq.gz
+CRB1,AB-206,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,112,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-206_R1_001.fastq.gz,AB-206_R2_001.fastq.gz
+CRB1B,AB-207,Haliclystus antarcticus,Risopatron,gut,Rizopatron,gut_body,112,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-207_R1_001.fastq.gz,AB-207_R2_001.fastq.gz
+CRT2,AB-208,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,tentacle,5.62,Buffer AE blood and tissue kit qiagen,blood & tissue with incubation overnight,AB-208_R1_001.fastq.gz,AB-208_R2_001.fastq.gz
