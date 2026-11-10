@@ -1,0 +1,66 @@
+Sample_ID,16S_ID,Species,Site,Compartment,Original_site_label,FASTQ_R1_expected,FASTQ_R2_expected
+CBB1,AB-139,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-139_R1_001.fastq.gz,AB-139_R2_001.fastq.gz
+CBB10,AB-140,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-140_R1_001.fastq.gz,AB-140_R2_001.fastq.gz
+CBB11,AB-141,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-141_R1_001.fastq.gz,AB-141_R2_001.fastq.gz
+CBB12,AB-142,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-142_R1_001.fastq.gz,AB-142_R2_001.fastq.gz
+CBB13,AB-143,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-143_R1_001.fastq.gz,AB-143_R2_001.fastq.gz
+CBB14,AB-144,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-144_R1_001.fastq.gz,AB-144_R2_001.fastq.gz
+CBB15,AB-145,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-145_R1_001.fastq.gz,AB-145_R2_001.fastq.gz
+CBB2,AB-146,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-146_R1_001.fastq.gz,AB-146_R2_001.fastq.gz
+CBB3,AB-147,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-147_R1_001.fastq.gz,AB-147_R2_001.fastq.gz
+CBB4,AB-148,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-148_R1_001.fastq.gz,AB-148_R2_001.fastq.gz
+CBB5,AB-149,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-149_R1_001.fastq.gz,AB-149_R2_001.fastq.gz
+CBB6,AB-150,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-150_R1_001.fastq.gz,AB-150_R2_001.fastq.gz
+CBB7,AB-151,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-151_R1_001.fastq.gz,AB-151_R2_001.fastq.gz
+CBB8,AB-152,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-152_R1_001.fastq.gz,AB-152_R2_001.fastq.gz
+CBB9,AB-153,Haliclystus antarcticus,Byers Bay,gut,Baia_Byers,AB-153_R1_001.fastq.gz,AB-153_R2_001.fastq.gz
+CBS1,AB-154,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-154_R1_001.fastq.gz,AB-154_R2_001.fastq.gz
+CBS10,AB-155,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-155_R1_001.fastq.gz,AB-155_R2_001.fastq.gz
+CBS11,AB-156,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-156_R1_001.fastq.gz,AB-156_R2_001.fastq.gz
+CBS12,AB-157,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-157_R1_001.fastq.gz,AB-157_R2_001.fastq.gz
+CBS13,AB-158,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-158_R1_001.fastq.gz,AB-158_R2_001.fastq.gz
+CBS14,AB-159,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-159_R1_001.fastq.gz,AB-159_R2_001.fastq.gz
+CBS15,AB-160,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-160_R1_001.fastq.gz,AB-160_R2_001.fastq.gz
+CBS2,AB-161,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-161_R1_001.fastq.gz,AB-161_R2_001.fastq.gz
+CBS3,AB-162,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-162_R1_001.fastq.gz,AB-162_R2_001.fastq.gz
+CBS4,AB-163,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-163_R1_001.fastq.gz,AB-163_R2_001.fastq.gz
+CBS5,AB-164,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-164_R1_001.fastq.gz,AB-164_R2_001.fastq.gz
+CBS6,AB-165,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-165_R1_001.fastq.gz,AB-165_R2_001.fastq.gz
+CBS7,AB-166,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-166_R1_001.fastq.gz,AB-166_R2_001.fastq.gz
+CBS8,AB-167,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-167_R1_001.fastq.gz,AB-167_R2_001.fastq.gz
+CBS9,AB-168,Haliclystus antarcticus,Byers Bay,peduncle,Baia_Byers,AB-168_R1_001.fastq.gz,AB-168_R2_001.fastq.gz
+CBT1,AB-169,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-169_R1_001.fastq.gz,AB-169_R2_001.fastq.gz
+CBT10,AB-170,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-170_R1_001.fastq.gz,AB-170_R2_001.fastq.gz
+CBT11,AB-171,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-171_R1_001.fastq.gz,AB-171_R2_001.fastq.gz
+CBT12,AB-172,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-172_R1_001.fastq.gz,AB-172_R2_001.fastq.gz
+CBT13,AB-173,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-173_R1_001.fastq.gz,AB-173_R2_001.fastq.gz
+CBT14,AB-174,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-174_R1_001.fastq.gz,AB-174_R2_001.fastq.gz
+CBT15,AB-175,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-175_R1_001.fastq.gz,AB-175_R2_001.fastq.gz
+CBT2,AB-176,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-176_R1_001.fastq.gz,AB-176_R2_001.fastq.gz
+CBT3,AB-177,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-177_R1_001.fastq.gz,AB-177_R2_001.fastq.gz
+CBT4,AB-178,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-178_R1_001.fastq.gz,AB-178_R2_001.fastq.gz
+CBT5,AB-179,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-179_R1_001.fastq.gz,AB-179_R2_001.fastq.gz
+CBT6,AB-180,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-180_R1_001.fastq.gz,AB-180_R2_001.fastq.gz
+CBT7,AB-181,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-181_R1_001.fastq.gz,AB-181_R2_001.fastq.gz
+CBT8,AB-182,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-182_R1_001.fastq.gz,AB-182_R2_001.fastq.gz
+CBT9,AB-183,Haliclystus antarcticus,Byers Bay,tentacle,Baia_Byers,AB-183_R1_001.fastq.gz,AB-183_R2_001.fastq.gz
+CR1S,AB-189,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,AB-189_R1_001.fastq.gz,AB-189_R2_001.fastq.gz
+CR1T,AB-190,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,AB-190_R1_001.fastq.gz,AB-190_R2_001.fastq.gz
+CR2,AB-191,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-191_R1_001.fastq.gz,AB-191_R2_001.fastq.gz
+CR2B,AB-192,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-192_R1_001.fastq.gz,AB-192_R2_001.fastq.gz
+CR2S,AB-193,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,AB-193_R1_001.fastq.gz,AB-193_R2_001.fastq.gz
+CR3,AB-194,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-194_R1_001.fastq.gz,AB-194_R2_001.fastq.gz
+CR3B,AB-195,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-195_R1_001.fastq.gz,AB-195_R2_001.fastq.gz
+CR3S,AB-196,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,AB-196_R1_001.fastq.gz,AB-196_R2_001.fastq.gz
+CR3T,AB-197,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,AB-197_R1_001.fastq.gz,AB-197_R2_001.fastq.gz
+CR4,AB-198,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-198_R1_001.fastq.gz,AB-198_R2_001.fastq.gz
+CR4B,AB-199,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-199_R1_001.fastq.gz,AB-199_R2_001.fastq.gz
+CR4S,AB-200,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,AB-200_R1_001.fastq.gz,AB-200_R2_001.fastq.gz
+CR4T,AB-201,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,AB-201_R1_001.fastq.gz,AB-201_R2_001.fastq.gz
+CR5,AB-202,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-202_R1_001.fastq.gz,AB-202_R2_001.fastq.gz
+CR5B,AB-203,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-203_R1_001.fastq.gz,AB-203_R2_001.fastq.gz
+CR5S,AB-204,Haliclystus antarcticus,Risopatron,peduncle,Rizopatron,AB-204_R1_001.fastq.gz,AB-204_R2_001.fastq.gz
+CR5T,AB-205,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,AB-205_R1_001.fastq.gz,AB-205_R2_001.fastq.gz
+CRB1,AB-206,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-206_R1_001.fastq.gz,AB-206_R2_001.fastq.gz
+CRB1B,AB-207,Haliclystus antarcticus,Risopatron,gut,Rizopatron,AB-207_R1_001.fastq.gz,AB-207_R2_001.fastq.gz
+CRT2,AB-208,Haliclystus antarcticus,Risopatron,tentacle,Rizopatron,AB-208_R1_001.fastq.gz,AB-208_R2_001.fastq.gz
